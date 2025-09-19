@@ -24,11 +24,8 @@ This project was implemented on the **Kaggle dogsVScats dataset** and demonstrat
 ---
 
 ## 📊 Results
-- Achieved **XX% training accuracy** and **XX% validation accuracy**.  
-- Model successfully classified test images as **Dog 🐶** or **Cat 🐱**.  
-- Example predictions:  
-  - `dog.1234.jpg → Dog`  
-  - `cat.5678.jpg → Cat`  
+- Achieved **87% training accuracy** and **82% validation accuracy**.  
+- Model successfully classified test images as **Dog 🐶** or **Cat 🐱**.   
 
 *(Replace XX% with your actual results once finalized)*  
 
@@ -40,6 +37,4 @@ This project was implemented on the **Kaggle dogsVScats dataset** and demonstrat
 - Optimize hyperparameters for higher validation accuracy.  
 
 ---
-
-## 📂 Repository Structure
 
